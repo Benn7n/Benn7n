@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bennen Tun</h1>
-<h3 align="center">I'm an aspiring frontend developer from México</h3>
+<h3 align="center">I'm an aspiring frontend developer from Mexico</h3>
 
 - 🌱 I’m currently learning to use **Bootstrap and PHP**. Additionally, I am seeking to refine my skills in **frontend development**, focusing on foundational languages such as **HTML and CSS**, and incorporating programming languages like **Java, JavaScript, and PHP**. It's important to emphasize my keen interest in expanding my knowledge of **design software** such as **Photoshop and Adobe Illustrator**, as these are subjects that genuinely impassion me.
 
