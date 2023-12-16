@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bennen Tun</h1>
 <h3 align="center">I'm an aspiring frontend developer from México</h3>
 
-- 🌱 I’m currently learning **to use Bootstrap and PHP. Additionally, I am seeking to refine my skills in frontend development, focusing on foundational languages such as HTML and CSS, and incorporating programming languages like Java, JavaScript, and PHP. It's important to emphasize my keen interest in expanding my knowledge of design software such as Photoshop and Adobe Illustrator, as these are subjects that genuinely impassion me.**
+- 🌱 I’m currently learning **I'm currently learning to use Bootstrap and PHP. Additionally, I am seeking to refine my skills in frontend development, focusing on foundational languages such as HTML and CSS, and incorporating programming languages like Java, JavaScript, and PHP. It's important to emphasize my keen interest in expanding my knowledge of design software such as Photoshop and Adobe Illustrator, as these are subjects that genuinely impassion me.**
 
 - 📫 How to reach me **alexandretun96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@benn7n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@benn7n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benn7n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benn7n" height="30" width="40" /></a>
 <a href="https://instagram.com/benn7n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benn7n" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@benn7n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@benn7n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
